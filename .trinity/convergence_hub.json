@@ -21,13 +21,13 @@
       "last_update": "2025-11-05T17:46:00Z"
     },
     "computer_3_phone": {
-      "name": "Mobile Device (TBD)",
-      "status": "PENDING_SETUP",
+      "name": "Mobile Device (Commander's Phone)",
+      "status": "CONNECTED - Reading repo!",
       "device_type": "Mobile (Android/iOS)",
-      "current_work": "Awaiting first connection",
+      "current_work": "First connection successful - awaiting mission assignment",
       "last_commit": null,
-      "last_update": null,
-      "setup_instructions": "See PHONE_SETUP.md"
+      "last_update": "2025-11-05T18:50:00Z",
+      "setup_instructions": "COMPLETE - Phone is reading Trinity hub"
     }
   },
 
